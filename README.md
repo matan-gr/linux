@@ -1,1 +1,1 @@
-# linux-cheatsheet
+# linux related stuff
