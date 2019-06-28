@@ -1,0 +1,52 @@
+### Basic Linux information ###
+
+# Display Linux system information
+uname -a
+
+# Display kernel release information
+uname -r
+
+# Show which version of redhat installed
+cat /etc/redhat-release
+
+
+# Show how long the system has been running + load
+uptime
+
+# Show system host name
+hostname
+
+
+# Show system reboot history
+last reboot
+
+# Show the current date and time
+date
+
+
+# Display who is online
+w
+
+
+# Who you are logged in as
+whoami
+
+
+# Locate the binary, source, and manual page files for a command
+whereis <command name>
+
+
+# Shows the full path of (shell) commands
+which <command name>
+
+
+# Display manual page descriptions
+whatis <command name>
+
+
+# Print name of current/working directory
+pwd
+
+
+# An interface to the on-line reference manuals
+man <command name>
